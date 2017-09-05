@@ -4,49 +4,49 @@ ethminer=proxywallet 0x1Bf0BE47861530ADF9b5D283775DEa2Be9CEF723
 ethminer=proxypool1 pool-asia.ethosdistro.com:5001
 ethminer=proxypool2 pool-usa.ethosdistro.com:5001
 
-sgminer-gm-xmr=proxypool1 xmr-asia1.nanopool.org:14444
-sgminer-gm-xmr=proxypool2 xmr-us-west1.nanopool.org:14444
-sgminer-gm-xmr=proxywallet 453fGxGvZKJg7h2zNjZtGdjmCdrPguVNT63Jvnz5BVoHMQDxUbuoZJyEMyJc9zQkmHhnbyVaBPVGuPKgKQQrRuK6PwmJZcJ
+# sgminer-gm-xmr=proxypool1 xmr-asia1.nanopool.org:14444
+# sgminer-gm-xmr=proxypool2 xmr-us-west1.nanopool.org:14444
+# sgminer-gm-xmr=proxywallet 453fGxGvZKJg7h2zNjZtGdjmCdrPguVNT63Jvnz5BVoHMQDxUbuoZJyEMyJc9zQkmHhnbyVaBPVGuPKgKQQrRuK6PwmJZcJ
 
 flags --cl-global-work 8192 --farm-recheck 200
 autoreboot 3
-custompanel bhfewomoney1
+custompanel ddspol
 
 # MINER 254
-loc f5e818 miner254
+loc f5e818 dudis123
 mem f5e818 4800 4800 4800 4800 4800 4800 4800 1500 1500 1500 1500 1500
 pwr f5e818 120 120 120 120 120 120 120 120 120 120 120 120
 mxt f5e818 80
 miner f5e818 ethminer
 
 # MINER 253
-loc f5edb5 miner253
-mem f5edb5 4900 4900 4900 4900 4900 4900 4900 1550 1550 1550 1550 1550
-pwr f5edb5 120 120 120 120 120 120 120 120 120 120 120 120
-mxt f5edb5 70
-miner f5edb5 ethminer
+# loc f5edb5 miner253
+# mem f5edb5 4900 4900 4900 4900 4900 4900 4900 1550 1550 1550 1550 1550
+# pwr f5edb5 120 120 120 120 120 120 120 120 120 120 120 120
+# mxt f5edb5 70
+# miner f5edb5 ethminer
 
 # MINER 252
-loc 90c3d9 miner252
-mem 90c3d9 4800 4800 4800 4800 4800 4800 4800
-pwr 90c3d9 120 120 120 120 120 120 120
-mxt 90c3d9 85
-fan 90c3d9 75 75 75 75 75 75
-miner 90c3d9 ethminer
+# loc 90c3d9 miner252
+# mem 90c3d9 4800 4800 4800 4800 4800 4800 4800
+# pwr 90c3d9 120 120 120 120 120 120 120
+# mxt 90c3d9 85
+# fan 90c3d9 75 75 75 75 75 75
+# miner 90c3d9 ethminer
 
 # MINER 251
-loc 90c089 miner251
-mem 90c089 4800 4800 4800 4800 4800 4800 4800
-pwr 90c089 120 120 120 120 120 120 120
-mxt 90c089 80
-miner 90c089 ethminer
+# loc 90c089 miner251
+# mem 90c089 4800 4800 4800 4800 4800 4800 4800
+# pwr 90c089 120 120 120 120 120 120 120
+# mxt 90c089 80
+# miner 90c089 ethminer
 
 # TEMP MINER 251
-loc f49ca5 tmine251
-mem f49ca5 4800 4800 4800 4800 4800 4800 4800
-pwr f49ca5 120 120 120 120 120 120 120
-mxt f49ca5 80
-miner f49ca5 ethminer
+# loc f49ca5 tmine251
+# mem f49ca5 4800 4800 4800 4800 4800 4800 4800
+# pwr f49ca5 120 120 120 120 120 120 120
+# mxt f49ca5 80
+# miner f49ca5 ethminer
 
 
 
