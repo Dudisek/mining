@@ -6,7 +6,7 @@ proxypool2 pool-usa.ethosdistro.com:5001
 
 flags --cl-global-work 8192 --farm-recheck 200
 autoreboot 3
-custompanel ddspol
+custompanel ddspolpemymo
 maxgputemp 85
 
 
