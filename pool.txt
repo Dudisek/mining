@@ -10,6 +10,11 @@ custompanel ddspolpemymo
 maxgputemp 85
 globalminer ethminer
 
+mem f499a1 +1150
+pwr f499a1 120
+mxt f499a1 80
+
+
 # MINER 254
 # loc f5e818 miner254
 # mem f5e818 +1125 +1125 +1125 +1125 +1075 +1125 +1125 +1125 +1125 +1125 +1125 +1125
@@ -39,14 +44,6 @@ globalminer ethminer
 # pwr 90c089 120 120 120 120 120 120 120
 # mxt 90c089 80
 # miner 90c089 ccminer
-
-# MINER 250
-# loc f49ca5 miner250
-# mem f49ca5 +1300
-# pwr f49ca5 120
-# mxt f49ca5 80
-# miner f49ca5 ethminer
-
 
 # globalfan 85
 
