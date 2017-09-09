@@ -10,10 +10,6 @@ custompanel ddspolpemymo
 maxgputemp 85
 globalminer ethminer
 
-mem f499a1 +1150 +1150 +1150
-pwr f499a1 120 120 120
-mxt f499a1 80
-
 
 # MINER 254
 # loc f5e818 miner254
