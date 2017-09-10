@@ -10,7 +10,7 @@ custompanel ddspolpemymo
 maxgputemp 80
 globalfan 90
 mem f499a1 4800 4800 4800
-pwr f499a1 80 80 80
+pwr f499a1 85 85 85
 
 globalminer ethminer
 
