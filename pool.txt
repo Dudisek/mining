@@ -8,9 +8,9 @@ flags --cl-global-work 8192 --farm-recheck 200
 autoreboot 3
 custompanel ddspolpemymo
 maxgputemp 80
-globalfan 90
-mem f499a1 4800 4800 4800
-pwr f499a1 90 90 90
+globalfan 85
+mem f499a1 4500 4500 4500
+pwr f499a1 80 80 80
 
 globalminer ethminer
 
