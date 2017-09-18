@@ -9,7 +9,7 @@ autoreboot 3
 custompanel ddspolpemymo
 maxgputemp 82
 globalfan 80
-mem f499a1 5200 5200 5200
+mem f499a1 +750 +750 +750
 pwr f499a1 80 80 80
 
 globalminer ethminer
