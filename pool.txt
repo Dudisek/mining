@@ -7,9 +7,9 @@ proxypool2 pool-usa.ethosdistro.com:5001
 flags --cl-global-work 8192 --farm-recheck 200
 autoreboot 3
 custompanel ddspolpemymo
-maxgputemp 82
-globalfan 80
-# mem f499a1 4800 4800 4800
+maxgputemp 85
+globalfan 90
+mem f499a1 4800 4800 4800
 pwr f499a1 125 125 125
 
 # nvidia ethminer
