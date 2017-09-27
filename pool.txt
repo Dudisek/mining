@@ -8,7 +8,7 @@ flags --cl-global-work 8192 --farm-recheck 200
 autoreboot 3
 custompanel ddspolpemymo
 maxgputemp 85
-globalfan 90
+globalfan 80
 mem f499a1 4800 4800 4800
 pwr f499a1 125 125 125
 
